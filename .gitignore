@@ -1,1 +1,3 @@
 .DS_Store
+# SAVE_CONFIG auto-backups created by Klipper on the printer
+printer-*.cfg
